@@ -11,6 +11,9 @@
   </a>
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Notebook-Jupyter-orange">
   <img alt="Python Language" src="https://img.shields.io/badge/Language-Python-blue">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-1.24+-blueviolet">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2.0+-teal">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1.3+-yellowgreen">
 </div>
 
 <div align="center">
